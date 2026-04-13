@@ -1,0 +1,29 @@
+# Core LLM + RAG
+openai
+langchain
+langchain-text-splitters
+
+# Vector database
+faiss-cpu
+
+# API requests
+requests
+
+# Tokenization (used by langchain/openai)
+tiktoken
+
+# Web app
+streamlit
+
+# Experiment tracking
+mlflow
+
+# for better structure
+python-dotenv
+
+# for HuggingFace models
+transformers
+sentence-transformers
+
+# For PDF handling 
+pymupdf
