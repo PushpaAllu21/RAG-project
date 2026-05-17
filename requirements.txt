@@ -24,6 +24,7 @@ python-dotenv
 # for HuggingFace models
 transformers
 sentence-transformers
+rank-bm25
 
 # For PDF handling 
 pymupdf
